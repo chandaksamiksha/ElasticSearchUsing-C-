@@ -7,7 +7,7 @@ D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Con
 D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Console\bin\Debug\Elasticsearch.Net.xml
 D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Console\bin\Debug\Nest.xml
 D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Console\bin\Debug\Newtonsoft.Json.xml
-D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Console\obj\Debug\ElasticSearch-Console.csprojResolveAssemblyReference.cache
 D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Console\obj\Debug\ElasticSearch-Console.csproj.CoreCompileInputs.cache
 D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Console\obj\Debug\ElasticSearch-Console.exe
 D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Console\obj\Debug\ElasticSearch-Console.pdb
+D:\Training\Elastic Search Assisgnements\ElasticSearch-Console\ElasticSearch-Console\obj\Debug\ElasticSearch-Console.csprojResolveAssemblyReference.cache
